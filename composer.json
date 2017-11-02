@@ -1,0 +1,12 @@
+{
+    "name": "basaltinc/bedrock-php-libs",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Evan Lovely",
+            "email": "evanlovely@gmail.com"
+        }
+    ],
+    "require": {}
+}
